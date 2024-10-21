@@ -12,3 +12,23 @@ Good Health
 
 Not Good Health
 ![image](https://github.com/user-attachments/assets/cb8194d8-6064-42cc-8bc1-0622d49e3241)
+
+Requirements
+scikit-learn
+streamlit
+
+Installation
+
+Clone the repository
+  git clone https://github.com/Kabilduke/EngineHealth.care.git
+  cd
+Create a virtual environment and activate it:
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+Install the required packages:
+   pip install requirements.txt
+Run the streamlit app:
+   streamlit run app.py
+   
+Contribution
+Contributions are welcome! Feel free to open an issue or submit a pull request for any changes or improvements.
